@@ -74,6 +74,18 @@
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/353724/express.svg" alt="expressjs" width="40" height="40"/> 
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/452242/jquery.svg" alt="jquery" width="40" height="40"/> 
+  </a>
+  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/353527/bulma.svg" alt="bulma" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
 </p>
 
 
