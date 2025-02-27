@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm nghiaomg</h1>
-<h3 align="center">Backend is where all the magic happens </h3>
+# Hi 👋, I'm nghiaomg
+### Backend is where all the magic happens
+
+[🔗 My CV](https://nghiaomg.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
