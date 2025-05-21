@@ -75,16 +75,17 @@
   <img src="https://www.svgrepo.com/show/355038/golang.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" />
-  <img src="https://bestofjs.org/logos/vuetify.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="35" />
+  <img src="https://bestofjs.org/logos/vuetify.svg" width="35" />
   <img src="https://www.chartjs.org/media/logo-title.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="30" />
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/OptimalBits/bull/HEAD/support/logo@2x.png" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
+  <img src="https://bullmq.io/images/bullmq-logo.png" width="160" />
 </p>
+
 
 ---
 
