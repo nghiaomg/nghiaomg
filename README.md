@@ -83,6 +83,7 @@
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/OptimalBits/bull/HEAD/support/logo@2x.png" width="40" />
 </p>
 
 ---
