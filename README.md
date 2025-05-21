@@ -70,7 +70,7 @@
 
 ## 🧰 Other Tools & Tech
 
-<p align="center">
+<p style="display: flex; align-items: center; justify-content: center; gap: 4px;" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
   <img src="https://www.svgrepo.com/show/355038/golang.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />
@@ -83,7 +83,7 @@
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
-  <img src="https://bullmq.io/images/bullmq-logo.png" width="160" />
+  <img src="https://blog.taskforce.sh/content/images/2021/10/321329510-vector--1--3.png" width="50" />
 </p>
 
 
