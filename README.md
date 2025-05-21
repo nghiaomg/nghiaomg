@@ -71,7 +71,7 @@
 
 ## 🧰 Other Tools & Tech
 
-<p style="display: flex; align-items: center; justify-content: center; gap: 4px;" align="center">
+<p style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
   <img src="https://www.svgrepo.com/show/355038/golang.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />
@@ -83,8 +83,10 @@
   <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="30" />
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
-  <img src="https://blog.taskforce.sh/content/images/2021/10/321329510-vector--1--3.png" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://blog.taskforce.sh/content/images/2021/10/321329510-vector--1--3.png" width="40" />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/web3js-fkc6l6evntwzqrc1ac18.png/web3js-bqu5uc0cbrwxmkzlzt2ods.png?_a=DATAdtAAZAA0" width="40" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" />
 </p>
 
 
