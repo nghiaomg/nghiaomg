@@ -60,6 +60,7 @@
 <p>
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" />
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="40" />
+  <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width="40" />
 </p>
 
 </td>
