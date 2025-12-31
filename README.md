@@ -95,10 +95,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghiaomg&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=nghiaomg)](https://git.io/streak-stats)
-</p>
+</p>>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nghiaomg&" alt="GitHub Streak" />
 </p>
