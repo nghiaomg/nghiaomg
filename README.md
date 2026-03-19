@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nghiaomg</h1>
 <h3 align="center">Backend is where all the magic happens</h3>
 <p align="center">
-  <a href="https://nghiaomg.site/" target="_blank">My CV</a>
+  <a href="https://nghiaomg.xyz" target="_blank">My CV</a>
 </p>
 
 ---
